@@ -31,13 +31,13 @@ Một bảng trong cơ sở dữ liệu là một cấu trúc bao gồm các hà
 Ví Dụ:
 
 - **Bảng Sinh Viên**
-
+![image](https://github.com/user-attachments/assets/3dd4d453-1d6a-4f51-b465-9bc32508bc9e)
 
 - **Bảng Sản phẩm**
-
+![image](https://github.com/user-attachments/assets/586d8079-6ac2-4cb9-b9d3-feadb43268f7)
 
 - **Bảng Đơn Hàng**
-
+![image](https://github.com/user-attachments/assets/9174f93b-f2d3-4ece-995f-3aaf712f17f2)
 
 ### 1.1.4. Quan Hệ (Relationship)
 Quan hệ trong cơ sở dữ liệu đề cập đến cách các bảng liên kết với nhau. Các loại quan hệ phổ biến bao gồm:
@@ -49,6 +49,7 @@ Quan hệ trong cơ sở dữ liệu đề cập đến cách các bảng liên 
 Ví Dụ quan hệ giữa bảng Sinh Viên và bảng Lớp Học:
 - Một sinh viên có thể học nhiều lớp.
 - Một lớp có thể có nhiều sinh viên.
+![image](https://github.com/user-attachments/assets/23a801dc-b678-40a3-8d28-9d4c9c74148e)
 
 
 ## 1.2. SQL (Structured Query Language)
@@ -75,9 +76,8 @@ Phép JOIN trong SQL được sử dụng để kết hợp các hàng từ hai 
 - **LEFT JOIN (LEFT OUTER JOIN)**: Trả về tất cả các bản ghi từ bảng bên trái và các bản ghi khớp từ bảng bên phải.
 - **RIGHT JOIN (RIGHT OUTER JOIN)**: Trả về tất cả các bản ghi từ bảng bên phải và các bản ghi khớp từ bảng bên trái.
 - **FULL JOIN (FULL OUTER JOIN)**: Trả về tất cả các bản ghi khi có một sự khớp trong bảng bên trái hoặc bảng bên phải.
-
-
-
+![image](https://github.com/user-attachments/assets/7a4b4e2c-4839-43ae-995b-66fc50f19a45)
+![image](https://github.com/user-attachments/assets/5cff96fa-f0b7-433e-ab50-bf2447de31a2)
 
 ### 1.2.2. Dùng SQL với điều kiện (WHERE)
 Mệnh đề WHERE trong SQL được sử dụng để lọc các bản ghi trả về bởi một truy vấn SQL, chỉ chọn các bản ghi thỏa mãn điều kiện chỉ định.
