@@ -58,8 +58,7 @@ Và để tối ưu hóa, bắt buộc bạn phải có dữ liệu. Dữ liệu
 Trí tuệ nhân tạo (AI) hiện đã được phổ cập, đó là tín hiệu đáng mừng, nhất là khi bạn có thể ứng dụng nó trong kinh doanh theo nhiều cách khác nhau. Nhờ các công cụ như ChatGPT, Gemini và cách tích hợp vào các ứng dụng bên thứ ba nên bạn có nhiều cách để khiến AI trở thành trợ lý đắc lực, giảm thời gian công sức cho các việc thủ công lặp đi lặp lại.
 
 Trong môi trường doanh nghiệp, AI rất cần data để hoạt động, vì phải có data của chính doanh nghiệp thì thông tin mà AI trả về mới chính xác và đảm bảo đúng. Có một chủ đề gợi ý mà bạn có thể tìm hiểu thêm, đó là RAG (Retrieval Augmented Generation). Đây là một phương pháp đưa dữ liệu cho AI tìm kiếm và trả lời dựa theo dữ liệu của doanh nghiệp. Quy trình cơ bản của RAG bạn có thể xem bên dưới. Trong phạm vi của dự án data literacy, chúng mình sẽ không đi quá sâu vào RAG.
-
-
+![image](https://github.com/user-attachments/assets/3aec27d6-e873-4846-9eca-ad81a10f2644)
 
 AI có thể hỗ trợ bạn đắc lực trong việc kiểm soát dữ liệu, tự động đọc dữ liệu và đưa ra các dự báo phục vụ cho việc tối ưu hóa đã đề cập ở trên.
 
@@ -111,3 +110,4 @@ Các nhà cung cấp dịch vụ cloud thường cung cấp các tính năng nh�
 Doanh nghiệp cần thường xuyên theo dõi và phân tích chi phí sử dụng data để xác định vấn đề và đưa ra các biện pháp tối ưu hóa phù hợp.
 
 Bên dưới là một dashboard ví dụ để kiểm tra về số tiền sử dụng mỗi ngày trên Google BigQuery, một hệ thống data warehouse của Google Cloud. Việc có thể xem từng câu truy vấn và số tiền phát sinh từ mỗi câu sẽ giúp bạn xác định được các câu SQL gây tốn chi phí không cần thiết và cắt giảm hoặc tối ưu lại chúng.
+![image](https://github.com/user-attachments/assets/1ded19f1-15e4-4aab-93be-b6522e937ddc)
