@@ -26,8 +26,7 @@ Tóm lại, dữ liệu có thể được coi là tiền đề để tổng h�
 
 ## 1.3. Từ dữ liệu đến thông tin và kiến thức
 Quá trình chuyển hóa dữ liệu trong đời sống thường sẽ đi theo con đường sau:
-
-
+![image](https://github.com/user-attachments/assets/18ecdefc-045a-4d84-8026-17c45b4d07a0)
 
 Kiến thức là dữ liệu đã được chuyển hóa thành thông tin, kết hợp với kinh nghiệm, trải nghiệm của con người để hình thành nên. Kiến thức là cái lưu trữ lại cuối cùng, và cũng là thứ được loài người sử dụng để phát triển tiếp, bất kể là trong cuộc sống hay trong kinh doanh.
 
@@ -81,6 +80,8 @@ Data và hệ thống data sẽ không thay bạn trong việc ra quyết địn
 Làm kinh doanh chắc chắn bạn sẽ phải dựa vào cảm giác của mình, vào những nhận định và kinh nghiệm mà đôi khi không có data nào có thể lượng hóa được. Chưa kể, nhiều trường hợp thậm chí còn không có data để chứng minh, chẳng hạn như khi bạn tiến vào một thị trường mới hoàn toàn chưa ai làm chẳng hạn. Thế nên, hãy cứ tin vào những quyết định của bản thân, và nếu có data hỗ trợ thêm thì càng tốt.
 
 # 3. Dữ liệu trong doanh nghiệp (Dữ liệu và nguồn dữ liệu)
+![image](https://github.com/user-attachments/assets/2260a30c-39a4-45d4-91b0-850cc99a3527)
+
 ## 3.1. Dữ liệu là gì?
 Dữ liệu (hay data) có thể hiểu đơn giản là một thông tin ghi chú về điều gì đó đã xảy ra. Dữ liệu thường được thể hiện dưới dạng số, kí tự, hình ảnh, video, âm thanh hay các kí hiệu khác, và được thu thập trong thực tế để phục vụ các công việc khác nhau. Khi nhắc đến dữ liệu, ta thường hình dung đó là những giá trị byte nằm trong máy tính, tuy nhiên trên thực tế nó còn có thể tồn tại dưới dạng chữ, số viết, ảnh chụp, hoặc thậm chí là trong trí nhớ của con người.Ví dụ:
 
