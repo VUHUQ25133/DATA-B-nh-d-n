@@ -197,15 +197,13 @@ Data trong doanh nghiệp có thể được vận dụng để giải quyết 2
 Việc sử dụng data để giải quyết các bài toán kinh doanh trong hầu hết trường hợp sẽ giúp bạn đưa ra được quyết định tối ưu, chắc chắn, đáng tin cậy và thuyết phục hơn.
 
 Dù công ty lớn hay nhỏ, thì việc sử dụng data trong doanh nghiệp có thể được mô phỏng như sơ đồ dưới đây:
-
-
+![image](https://github.com/user-attachments/assets/dd0c7179-1262-4911-a201-e2552fa534fe)
 
 ### Case study
 Ví dụ thực tế: Giả sử bạn đang làm cho công ty TikTok, KPI của bạn là số lượng TikToker đăng nội dung video hàng ngày. Một ngày nọ, sếp của bạn hỏi rằng: **Em ơi, hình như số lượng TikToker đăng video trong tuần này bị giảm 30% so với tuần trước. Lí do là vì sao và bây giờ em đề xuất nên làm gì?**
 
 Là một người phân tích dữ liệu, quy trình vận dụng data để phân tích và đưa ra đường hướng chiến lược để tăng số lượng TikToker tạo video trở lại của bạn có thể trông như sau:
-
-
+![image](https://github.com/user-attachments/assets/c7c0ed0d-dec8-4565-8fc3-07321cb4df97)
 
 Tùy thuộc vào quy mô, mô hình kinh doanh và nhu cầu phân tích mà mỗi doanh nghiệp sẽ có cách vận dụng data khác nhau. Tuy nhiên như các bạn đã thấy thì quy trình phân tích thì sẽ đều là: xác định vấn đề --> lập framework và xác định những câu hỏi cần trả lời --> tìm kiếm data --> xử lí data, phân tích & đưa ra giải pháp --> trình bày phân tích. Việc thấu hiểu quy trình này và sở hữu những bộ kĩ năng để thực hiện từng bước trong quy trình sẽ giúp các bạn vận dụng data tốt hơn để giúp doanh nghiệp cải thiện việc kinh doanh. Trong bài viết sau, chúng ta sẽ đi qua một vài lưu ý trong quy trình này để việc phân tích được hiệu quả hơn, đồng thời giảm thiểu những lỗi sai không đáng có.
 
@@ -217,8 +215,7 @@ Như ở bài trước, chúng ta đã biết là để đảm bảo việc phâ
 - Đảm bảo tính logic & thực tế của phân tích
 
 Trong bài viết này chúng ta sẽ đi sâu hơn về 3 tiêu chí này, tuy nhiên sẽ không đi quá sâu về phần kĩ thuật
-
-
+![image](https://github.com/user-attachments/assets/b51071fc-6e3f-418d-bbd5-f197f141f983)
 
 ### Chất lượng data
 Nói một cách đơn giản thì không ai muốn đưa ra kết luận không chính xác chỉ vì data bị sai hoặc không mang tính đại diện. Đó là lí do mà trước khi làm bất kì bài toán phân tích nào, điều đầu tiên chúng ta phải làm đó là kiểm tra chất lượng của data và làm sạch nó.
@@ -229,7 +226,7 @@ Nói một cách đơn giản thì không ai muốn đưa ra kết luận không
 
 **Data phải sạch:**
 - Data không chứa dữ liệu ngoại lai: Dữ liệu ngoại lai là các dữ liệu không có cùng xu hướng với toàn thể mẫu dữ liệu. Ví dụ dữ liệu học sinh tiểu học, có một số em có chiều cao lớn hơn 1m8, hoặc nhỏ hơn 1m, thì được xem là dữ liệu ngoại lai
-
+![image](https://github.com/user-attachments/assets/b13f58cc-3fde-44c0-b30d-88e38c3ac96a)
 
 - Data không chứa data lỗi: Data lỗi ở đây có thể là sai định dạng (dữ liệu chiều cao theo cm, nhưng tự nhiên lại có 1 dòng là "một mét ba" --> không cùng kiểu dữ liệu), bị thiếu dữ liệu (dữ liệu rỗng), hoặc dữ liệu bị sai do định dạng, do lỗi nhập liệu v.v. Những dữ liệu này cũng cần được loại ra để không ảnh hưởng đến quá trình phân tích
 
@@ -238,7 +235,7 @@ Một ví dụ về data chưa được làm sạch:
 - Cột Gender: định nghĩa nam, nữ không đồng nhất
 - Cột Age: có dữ liệu lỗi & dữ liệu không chính xác
 - Cột cost: có dữ liệu rỗng & dữ liệu ngoại lai
-
+![image](https://github.com/user-attachments/assets/829a02c4-177d-42f7-944c-5b806ae3ef99)
 
 Kĩ thuật kiểm tra tính đại diện & làm sạch data trước khi sử dụng: có nhiều phương pháp từ thủ công (filter data trên excel và sửa bằng tay) đến tự động (sử dụng hàm & công cụ làm sạch). Hẹn các bạn trong 1 bài viết khác để tránh bài này đỡ dài.
 
